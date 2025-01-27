@@ -1,4 +1,4 @@
-# PNG to WebP Converter
+# PNG to TIFF Converter
 
 PNG To TIFF Converter lets you easily convert PNG images to TIFF format for free. Simply upload your PNG files, preview them, and make any adjustments by adding or removing files as needed. The converter ensures high image quality during the process. Once the conversion is complete, download your new TIFF files effortlessly.
 
